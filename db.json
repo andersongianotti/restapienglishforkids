@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "Eschweiler"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "aadasdasdas"
+    },
+    {
+      "name": "Teste de inclusão",
+      "image": "Eschweiler",
+      "id": 3
+    },
+    {
+      "name": "Teste de inclusão",
+      "image": "Eschweiler",
+      "id": 4
+    },
+    {
+      "name": "Teste de inclusão",
+      "image": "Eschweiler",
+      "id": 5
+    },
+    {
+      "name": "Teste de inclusão",
+      "image": "Eschweiler",
+      "id": 6
+    },
+    {
+      "name": "Teste de inclusão",
+      "image": "Eschweiler",
+      "id": 7
+    }
+  ]
+}
