@@ -1,22 +1,21 @@
 {
-  "categories": [
+  "users":[
     {
       "id": 1,
-      "name": "Families",
-      "image": "Eschweiler"
-    },
-    {
-      "id": 2,
-      "name": "Numbers",
-      "image": "aadasdasdas"
-    },
+      "name": "Anderson Gianotti",
+      "email": "anderson.gianotti@gmail.com",
+      "xp": 0,
+      "highscore":0
+    }
+  ],
+  "categories": [
     {
       "name": "Teste de inclusão",
       "image": "Eschweiler",
       "id": 3
     },
     {
-      "name": "Teste de inclusão",
+      "name": "Teste de inclusãoaaaaaaa",
       "image": "Eschweiler",
       "id": 4
     },
@@ -34,6 +33,11 @@
       "name": "Teste de inclusão",
       "image": "Eschweiler",
       "id": 7
+    },
+    {
+      "name": "Teste de Alteração",
+      "image": "Eschweiler",
+      "id": 8
     }
   ]
 }
